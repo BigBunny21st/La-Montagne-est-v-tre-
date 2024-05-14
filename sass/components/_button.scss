@@ -1,0 +1,6 @@
+@use "../themes/theme";
+
+.c-base_button {
+    padding: 8px;
+    background-color: theme.$orange-main;
+}

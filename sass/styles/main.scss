@@ -1,0 +1,14 @@
+@use "../base";
+@use "../components/button";
+@use "../components/link";
+@use "../layouts/footer";
+@use "../layouts/navbar";
+
+//@use "../forward";
+
+
+body {
+  background: #111;
+  color: base.$orange-shade;
+  padding: 40px;
+}
